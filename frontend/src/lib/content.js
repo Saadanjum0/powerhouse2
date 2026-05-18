@@ -56,22 +56,19 @@ export const team = [
     titles: ["Fee Attorney", "Escrow Officer"],
     bio: "Rahila brings over fourteen years of experience in the real estate industry to our team. Her extensive knowledge and dedication ensure that every transaction is handled with the utmost care and professionalism.",
     email: "rahila@cwtitleco.com",
-    image:
-      "https://images.unsplash.com/photo-1494790108377-be9c29b29330?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NTYxODh8MHwxfHNlYXJjaHwyfHxwcm9mZXNzaW9uYWwlMjBidXNpbmVzcyUyMHBvcnRyYWl0JTIwaGVhZHNob3R8ZW58MHx8fHwxNzc5MTAwODIzfDA&ixlib=rb-4.1.0&q=85",
+    image: "/images/7cfbbf94118855b01ac8df3caa82326f.jpg",
   },
   {
     name: "Innara Vellani",
     titles: ["Escrow Officer"],
     bio: "Innara coordinates every escrow with precision, balancing the needs of buyers, sellers, and lenders to keep every transaction on schedule and on record.",
-    image:
-      "https://images.unsplash.com/photo-1652471943570-f3590a4e52ed?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NTYxODh8MHwxfHNlYXJjaHwzfHxwcm9mZXNzaW9uYWwlMjBidXNpbmVzcyUyMHBvcnRyYWl0JTIwaGVhZHNob3R8ZW58MHx8fHwxNzc5MTAwODIzfDA&ixlib=rb-4.1.0&q=85",
+    image: "/images/0cd6bc472d242c91b13ff9561f589494.jpg",
   },
   {
     name: "Shirin Dhanani",
     titles: ["Recording & Special Projects"],
     bio: "Shirin manages recording workflows and special projects, ensuring every document reaches the county and the file with absolute accuracy.",
-    image:
-      "https://images.unsplash.com/photo-1560250097-0b93528c311a?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NTYxODh8MHwxfHNlYXJjaHwxfHxwcm9mZXNzaW9uYWwlMjBidXNpbmVzcyUyMHBvcnRyYWl0JTIwaGVhZHNob3R8ZW58MHx8fHwxNzc5MTAwODIzfDA&ixlib=rb-4.1.0&q=85",
+    image: "/images/9e346b95e5e2526f4c652d30f8760ec6.jpg",
   },
 ];
 
@@ -87,8 +84,7 @@ export const awards = {
         "For the first time, our office's fee attorney has been honored by Houston RED News as Real Estate Lawyer of the Year. This prestigious award is a testament to over 14 years of expertise and significant contributions to the real estate industry.",
     },
   ],
-  badge:
-    "https://static.prod-images.emergentagent.com/jobs/6588df5d-c038-4b77-a46a-566c67538326/images/74a82dfa5e53c2f5f20f445cd119dcf8f2fce6e9c159db2243d3d1ce1c25287a.png",
+  badge: "/images/c0375b290b62864371dce12e54108288.png",
 };
 
 export const reviews = [
@@ -118,5 +114,4 @@ export const contact = {
   email: "info@powerhousetitle.com",
 };
 
-export const heroImage =
-  "https://static.prod-images.emergentagent.com/jobs/6588df5d-c038-4b77-a46a-566c67538326/images/c9104fccca3eac183e4ae469ebce5b93e5f0a0f180f932511d2109e4776df9e4.png";
+export const heroImage = "/images/69026e5beb95c003ac7d34ac19473a26.jpg";
