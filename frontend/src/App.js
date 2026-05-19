@@ -24,21 +24,21 @@ function App() {
 
   return (
     <div className="App font-sans bg-white text-[#131e3d]" data-testid="app-root">
-      <Header onSubmitDealClick={openDeal} />
+      {/* <Header onSubmitDealClick={openDeal} /> */}
       <main>
-        <Hero onSubmitDealClick={openDeal} />
-        <Services />
+        {/* <Hero onSubmitDealClick={openDeal} /> */}
+        {/* <Services /> */}
         <FidelityCalculator />
-        <Team />
-        <Awards />
-        <Reviews onLeaveReviewClick={openReview} />
-        <Contact onSubmitDealClick={openDeal} onBookMeetingClick={openMeeting} />
+        {/* <Team /> */}
+        {/* <Awards /> */}
+        {/* <Reviews onLeaveReviewClick={openReview} /> */}
+        {/* <Contact onSubmitDealClick={openDeal} onBookMeetingClick={openMeeting} /> */}
       </main>
-      <Footer />
+      {/* <Footer /> */}
 
-      <SubmitDealModal open={dealOpen} onOpenChange={setDealOpen} />
-      <LeaveReviewModal open={reviewOpen} onOpenChange={setReviewOpen} />
-      <BookMeetingModal open={meetingOpen} onOpenChange={setMeetingOpen} />
+      {/* <SubmitDealModal open={dealOpen} onOpenChange={setDealOpen} /> */}
+      {/* <LeaveReviewModal open={reviewOpen} onOpenChange={setReviewOpen} /> */}
+      {/* <BookMeetingModal open={meetingOpen} onOpenChange={setMeetingOpen} /> */}
     </div>
   );
 }
